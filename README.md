@@ -16,7 +16,7 @@ Welcome to Benchmark, where I dive into the performance of different functions t
 
 - **Allocs/op:** Denotes the average frequency of memory allocations performed by the program while running the benchmark. It provides information about the allocation behavior of the function.
 
-### 1. Regular Expression vs. String ContainsAny
+### 1. [Regular Expression vs. String ContainsAny](regExstring_test.go)
 
 #### Results:
 
